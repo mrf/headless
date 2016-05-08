@@ -1,21 +1,39 @@
-# The Risks of Losing Your Head
+# The Risks of Going Headless
 
-#About Me
-Mark Ferree (mrf)
+# About Me
 
-#Distributed Chaos
+* ![](images/mark-headshot-round.png)
+* **Mark Ferree**
+* **Director of Engineering** @ Chapter Three
+* **mrf** on Drupal.org, Twitter & Github
 
-#Duplicate Functionality
-- Love FORM API, well good cause you are rewriting it
+# 30 Second Background
+* ![](images/future-decoupled-drupal-traditional-vs-decoupled.jpg)
 
-#Abstraction
+# Distributed Teams
+* ![](images/thegap.jpg)
 
-#Single Points of Failure
+# Duplicate Functionality
+
+* ![](images/overlap3.png)
+
+# Abstraction
+
+* ![](images/thegap.jpg)
+
+# Single Points of Failure
+
+* ![](images/thegap.jpg)
 
 
-#More Info
-chapterthree.com/blog/decapitated-drupal-downsides-of-decoupling
+# More Info
+
+* chapterthree.com/blog/decapitated-drupal-downsides-of-decoupling
+
+* buytaert.net/the-future-of-decoupled-drupal
 
 #EOF
 
-**Mark Ferree** - chapterthree.com - github.com/mrf
+**Mark Ferree** 
+
+mark@chapterthree.com

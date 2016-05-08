@@ -11,3 +11,13 @@ body .reveal .slides {
   width: 100%;
   font-size: .44em;
 }
+
+.reveal ul {
+  list-style-type: none;
+  margin-left: 0;
+}
+
+.reveal section img {
+  border: none;
+  background: none;
+}
