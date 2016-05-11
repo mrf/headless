@@ -7,7 +7,7 @@
 * **Director of Engineering** @ Chapter Three
 * **mrf** on Drupal.org, Twitter & Github
 
-# 30 Second Background
+# Background
 * ![](images/future-decoupled-drupal-traditional-vs-decoupled.jpg)
 
 # Distributed Teams
